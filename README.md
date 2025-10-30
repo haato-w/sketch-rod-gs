@@ -4,7 +4,7 @@
 Haato Watanabe, Nobuyuki Umetani
 
 <!-- Links -->
-| [Project page](https://haato-w.github.io/sketch-rod-gs-project-page/) | [Paper]() | [Video](https://youtu.be/eaK0p0nU47g?si=sTGmfLNSeCYiJELJ) | [Dataset (Google Drive)](https://drive.google.com/drive/folders/1QhOkshES3-ubzQtoMD1wOpd_6Vj45H0f?usp=sharing) |<br>
+| [Project page](https://haato-w.github.io/sketch-rod-gs-project-page/) | [Paper](https://drive.google.com/file/d/1wGobqDku-FI_5NBXXg0IhNwWbq-0uBcf/view?usp=sharing) | [Video](https://youtu.be/eaK0p0nU47g?si=sTGmfLNSeCYiJELJ) | [Dataset (Google Drive)](https://drive.google.com/drive/folders/1QhOkshES3-ubzQtoMD1wOpd_6Vj45H0f?usp=sharing) |<br>
 
 <!-- Teaser Image -->
 ![Teaser image](resources/teaser.jpg)
