@@ -1,5 +1,7 @@
 # SketchRodGS: Sketch-based Extraction of Slender Geometries for Animating Gaussian Splatting Scenes
 
+### SIGGRAPH Asia 2025 Technical communications (Best Communications Award)
+
 <!-- Authors -->
 Haato Watanabe, Nobuyuki Umetani
 
